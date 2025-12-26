@@ -37,24 +37,9 @@ C:.
 - **Repository:** Manages database interactions.
 - **Service:** Implements business logic for mark operations.
 
-## APIs
-
 ### Endpoints
 - `POST /marks`: Add a new mark.
 - `GET /marks`: Retrieve all marks.
 - `GET /marks/{id}`: Retrieve a specific mark by ID.
 - `PUT /marks/{id}`: Update a specific mark.
 - `DELETE /marks/{id}`: Delete a specific mark by ID.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/xreedev/markproject-Springboot
-   cd markproject-Springboot
-   ```
-2. Run the project using Maven:
-   ```bash
-   mvn spring-boot:run
-   ```
-3. Access the APIs via Postman or any API client:
-   - Base URL: `http://localhost:8080`
