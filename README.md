@@ -22,8 +22,8 @@ This project is a Spring Boot application designed for managing and tracking stu
 - **Service:** Implements business logic for mark operations.
 
 ### Endpoints
-- `POST /marks`: Add a new mark.
-- `GET /marks`: Retrieve all marks.
-- `GET /marks/{id}`: Retrieve a specific mark by ID.
-- `PUT /marks/{id}`: Update a specific mark.
-- `DELETE /marks/{id}`: Delete a specific mark by ID.
+- POST /marks: Add a new mark.
+- GET /marks: Retrieve all marks.
+- GET /marks/{id}: Retrieve a specific mark by ID.
+- PUT /marks/{id}: Update a specific mark.
+- DELETE /marks/{id}: Delete a specific mark by ID.
