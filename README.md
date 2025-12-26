@@ -16,22 +16,6 @@ This project is a Spring Boot application designed for managing and tracking stu
 - **Spring Data JPA:** Provides easy integration with databases using Java Persistence API (JPA) for object-relational mapping.
 
 ## Project Structure
-```bash
-C:.
-├───.idea
-├───markproject
-│   ├───src
-│   │   └───main
-│   │       └───java
-│   │           └───com
-│   │               └───simplogics
-│   │                   └───markproject
-│   │                       ├───controller
-│   │                       ├───model
-│   │                       ├───repository
-│   │                       └───service
-└───target
-```
 - **Controller:** Handles API requests.
 - **Model:** Defines the entities for marks and students.
 - **Repository:** Manages database interactions.
