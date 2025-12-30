@@ -1,4 +1,4 @@
-# Student Marks Management - Spring Boot, REST APIs
+# Student Marks Management
 
 This project is a Spring Boot application designed for managing and tracking student marks. The application includes CRUD operations for handling student data and marks, utilizing Spring Boot's robust framework.
 
