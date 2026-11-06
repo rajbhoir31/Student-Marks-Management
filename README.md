@@ -27,3 +27,4 @@ This project is a Spring Boot application designed for managing and tracking stu
 - GET /marks/{id}: Retrieve a specific mark by ID.
 - PUT /marks/{id}: Update a specific mark.
 - DELETE /marks/{id}: Delete a specific mark by ID.
+.
